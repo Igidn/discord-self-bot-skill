@@ -9,7 +9,7 @@ An agent skill that enables secure, temporary interaction with a real Discord ac
 
 1. **Install the skill** into your agent's skill directory.
    ```bash
-      npx skills add Igidn/discord-self-bot-skill
+   npx skills add Igidn/discord-self-bot-skill
    ```
 3. **Create your `.env` file** in the skill root:
    ```bash
