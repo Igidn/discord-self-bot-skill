@@ -1,3 +1,8 @@
+---
+name: discord-self-bot
+description: Allows the agent to interact with a real Discord account using discord.py-self to perform user-requested tasks securely.
+---
+
 # Discord Self-Bot Skill
 
 This skill allows the agent to interact with a real Discord account using `discord.py-self` to perform tasks requested by the user.
