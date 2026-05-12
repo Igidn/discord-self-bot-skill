@@ -2,9 +2,8 @@
 
 An agent skill that enables secure, temporary interaction with a real Discord account using `discord.py-self`.
 
-## ⚠️ Disclaimer
-
-Using self-bots violates [Discord's Terms of Service](https://discord.com/terms). This skill is provided for educational and personal automation purposes only. The user assumes all responsibility for how this skill is used.
+> [!WARNING]
+> Using self-bots violates [Discord's Terms of Service](https://discord.com/terms). This skill is provided for educational and personal automation purposes only. The user assumes all responsibility for how this skill is used.
 
 ## Setup
 
