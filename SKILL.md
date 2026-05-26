@@ -12,7 +12,7 @@ This skill allows the agent to interact with a real Discord account using `disco
 1. **NEVER read the user's Discord token.** The token is stored in `.env` under the key `TOKEN`. You must treat this file as strictly confidential and never open, read, or log its contents.
 2. **Always prefer `pip3`** when installing Python packages, as it is the default for most users.
 3. All temporary self-bot code must be written inside the `sandbox/` folder.
-4. After completing the task, you **must delete** all code files written in `sandbox/`.
+4. After completing the task, you **must delete** all code files written in `sandbox/`. However, **do NOT delete the `.env` file** — it must be preserved for future tasks.
 5. Do not commit or share any code that contains or references the token.
 
 ## Workflow
